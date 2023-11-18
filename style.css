@@ -1,13 +1,9 @@
 body{
-    background-color: white;
+    background-color: skyblue;
 }
 
-#pilatusPage{
-  display: none;
-}
-#islandPage{
-  display: none;
-}
+
+
 #overlay {
     position: fixed; /* Sit on top of the page content */
     display: block; /* Hidden by default */
